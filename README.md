@@ -1,4 +1,4 @@
-# User accounts bash automation, by Inaki Fernandez (November-December 2009)
+# User accounts bash automation, November-December 2009
 Automation of non-centralized user accounts management with shell scripting. Inventory and colog.sh scripts
 
 colog.sh : A ccze wrapper that colors your logs
